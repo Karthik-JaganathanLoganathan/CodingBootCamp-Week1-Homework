@@ -134,6 +134,7 @@ p {
     max-width: 150px;
 }
 
+/*Since the properties are similar they are redundant since a new class is created
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,6 +162,30 @@ p {
     color: #ffffff;
 }
 
+*/
+
+
+
+
+
+
+
+
+.repetitive-styling 
+{  margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+    
+}
+
+
+
+
+/*Since the properties are similar they are redundant since a new class is created
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -173,6 +198,20 @@ p {
     max-height: 200px;
 }
 
+*/
+
+
+
+
+.repetitive-styling img
+{
+    max-height: 200px;
+    
+}
+
+
+
+/*Since the properties are similar they are redundant since a new class is created
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -187,6 +226,20 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+*/
+
+
+
+
+.repetitive-styling h2 
+{
+    margin-bottom: 20px;
+    font-size: 36px;
+    
+}
+
+
+
 
 .footer {
     padding: 30px;
@@ -195,6 +248,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
-    font-size: 20px;
-}
+/*Since the h4 tag is used, this is redundant
+.footer h2 {font-size: 20px;}
+*/
+
