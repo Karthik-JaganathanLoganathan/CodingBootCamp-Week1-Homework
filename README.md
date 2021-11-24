@@ -1,6 +1,6 @@
 # CodingBootCamp-Week1-Homework
 
-This project involves refactoring the existing code without making any changes to the existing HTML Webpage. A screenshot of the project after refactoring the code will be provided
+This project involves refactoring the existing code without making any changes to the existing HTML Webpage. A screenshot of the project after refactoring the code has be provided
 
 
 Project URL: https://karthik-jaganathanloganathan.github.io/CodingBootCamp-Week1-Homework/#social-media-marketing
